@@ -10,3 +10,9 @@ Added Headers to test different levels.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Added image of Yaktocat. 
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Added a javascript code block
