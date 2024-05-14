@@ -6,3 +6,7 @@
 ###### Header 6
 
 Added Headers to test different levels. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Added image of Yaktocat. 
