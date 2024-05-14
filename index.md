@@ -16,3 +16,9 @@ var myVar = "Hello, world!";
 ```
 
 Added a javascript code block
+
+- [X] Complete Step One
+- [ ] Complete Step Two
+- [ ] Complete Step Three
+
+Added checklist
